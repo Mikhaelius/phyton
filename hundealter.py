@@ -16,3 +16,4 @@ def alterR():
     print("Echtes Alter angeben.")
 
 alterR()
+# should work now
