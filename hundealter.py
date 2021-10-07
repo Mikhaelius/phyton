@@ -17,4 +17,4 @@ def alterR():
 
 alterR()
 # should work now
-#hunde einschlaefern
+#ALLE hunde einschlaefern
